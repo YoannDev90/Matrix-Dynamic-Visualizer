@@ -35,17 +35,37 @@ An interactive Python application for visualizing 2D linear transformations usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Matrix-Dynamic-Visualizer.git
+   git clone https://github.com/YoannDev90/Matrix-Dynamic-Visualizer.git
    cd Matrix-Dynamic-Visualizer
    ```
 
 2. Install dependencies:
 
    ```bash
+   pip install -r requirements.txt
+   ```
+
+   Or manually:
+
+   ```bash
    pip install pygame numpy
    ```
 
-3. Run the application:
+3. Run the setup script:
+
+   **Linux/Mac:**
+
+   ```bash
+   ./run.sh
+   ```
+
+   **Windows:**
+
+   ```cmd
+   run.bat
+   ```
+
+   Or run manually:
 
    ```bash
    python transformation_visualizer.py
