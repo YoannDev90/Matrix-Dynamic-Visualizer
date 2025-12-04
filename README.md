@@ -11,6 +11,23 @@ An interactive Python application for visualizing 2D linear transformations usin
 - Resizable window
 - Auto-adjust view to fit content
 
+## Screenshots
+
+### Initial Interface
+
+![Initial Interface](assets/base_screen.png)
+*The main interface displaying the original square, its transformed version, and the current transformation matrix.*
+
+### Central Symmetry Example
+
+![Central Symmetry](assets/central_symmetry.png)
+*Example of a central symmetry transformation applied to the square.*
+
+### Various Transformations
+
+![Transformations](assets/transformations.png)
+*Demonstration of different linear transformations including scaling, rotation, and shearing.*
+
 ## Controls
 
 - **Q/W**: Adjust matrix element (0,0) (+/-)
