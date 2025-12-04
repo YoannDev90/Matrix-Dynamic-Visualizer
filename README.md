@@ -1,4 +1,4 @@
-# Linear Transformation Visualizer
+# Matrix Dynamic Visualizer
 
 An interactive Python application for visualizing 2D linear transformations using Pygame.
 
@@ -35,8 +35,8 @@ An interactive Python application for visualizing 2D linear transformations usin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/linear-transformation-visualizer.git
-   cd linear-transformation-visualizer
+   git clone https://github.com/yourusername/Matrix-Dynamic-Visualizer.git
+   cd Matrix-Dynamic-Visualizer
    ```
 
 2. Install dependencies:
