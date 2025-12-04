@@ -10,6 +10,7 @@ import time
 class LinearTransformationVisualizer:
     def __init__(self, width=1200, height=800, matrix=None, points=None):
         pygame.init()
+        pygame.display.set_caption("Matrix Dynamic Visualizer")
         self.width = width
         self.height = height
         self.screen = pygame.display.set_mode((self.width, self.height), pygame.RESIZABLE)
