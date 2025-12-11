@@ -1,7 +1,3 @@
-# Programme par S.Roux lycee Follereau Belfort : orion.france@gmail.com
-# image de vecteurs de base par une application lineaire 2*2
-# Modifie directement la matrice dans le programme.
-
 import pygame
 from pygame.locals import *
 import numpy as np
